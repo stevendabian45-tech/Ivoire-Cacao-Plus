@@ -1,0 +1,13 @@
+Projet_Ivoire_Cacao_Plus/
+├── modele/
+├── metier/
+├── donnees/
+├── interface/
+├── doublures/
+├── index.ts
+├── package.json
+├── tsconfig.json
+├── README.md
+├── fiche-de-choix.md
+├── journal-des-choix.md
+└── journal-des-contributions.md

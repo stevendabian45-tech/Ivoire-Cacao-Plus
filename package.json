@@ -1,0 +1,15 @@
+{
+  "name": "ivoire-cacao-plus",
+  "version": "1.0.0",
+  "description": "Noyau metier TypeScript pour une cooperative fictive de cacao",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "npm run build && node --test dist"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2"
+  }
+}
